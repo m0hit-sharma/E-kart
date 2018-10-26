@@ -9,8 +9,9 @@ It is a simple TkInter project written in python 3 to create a interface for the
   
 # Database structure
 The project contains the following tables -
-    * admin : This table contains the login credentials
-    * customer : This table contains information about the customers
-    * products : This table contains all the necessary information regarding the product
-    * supplier : This table contains all the necessary inforamtion regarding the supplier of hte products
-    * orders : This table contains all the information of the orders which the customers have made
+
+ * admin : This table contains the login credentials
+ * customer : This table contains information about the customers
+ * products : This table contains all the necessary information regarding the product
+ * supplier : This table contains all the necessary inforamtion regarding the supplier of hte products
+ * orders : This table contains all the information of the orders which the customers have made
